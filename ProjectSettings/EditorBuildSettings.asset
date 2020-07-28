@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Titol.unity
     guid: cf32fe9bf04cc2e4fb9cce61b3900db0
   - enabled: 1
-    path: Assets/Scenes/Play.unity
+    path: Assets/Scenes/practicePlay.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/Result.unity

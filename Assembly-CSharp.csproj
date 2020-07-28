@@ -63,6 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\scriptFolder\play\testPlayer\testCamera.cs" />
+    <Compile Include="Assets\scriptFolder\play\testPlayer\testPlayer.cs" />
     <Compile Include="Assets\scriptFolder\titol\TitolManager.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/vantan/Desktop/作品・授業・課題/作品/DotchBallGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
